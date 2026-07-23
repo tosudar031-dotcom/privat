@@ -1,0 +1,41 @@
+﻿╔══════════════════════════════════════════════════════════╗
+║              CHROME BROWSER HISTORY                      ║
+╠══════════════════════════════════════════════════════════╣
+║ Date/Time   : 2026-07-23 17:26:36        ║
+║ Machine     : WASP                           ║
+║ User        : Janet Van Dyne                 ║
+║ Total URLs  : 30                             ║
+╠══════════════════════════════════════════════════════════╣
+║ # │ URL                                                   ║
+╠══════════════════════════════════════════════════════════╣
+║  1 │ https://www.google.com/                                 ║
+║  2 │ https://www.google.com/search?q=marvel+wasp&rlz=1C1O... ║
+║  3 │ https://get.adobe.com/de/reader/download?os=Windows+... ║
+║  4 │ https://www.mozilla.org/                                ║
+║  5 │ https://www.mozilla.org/de/firefox/download/thanks/h... ║
+║  6 │ https://i.pinimg.com/originals/72/31/74/7231748edec8... ║
+║  7 │ https://www.google.com/search?q=marvel+wasp&rlz=1C1O... ║
+║  8 │ https://www.google.com/search?q=marvrl+wasp&rlz=1C1O... ║
+║  9 │ https://www.google.com/search?q=marverl+wasp&rlz=1C1... ║
+║ 10 │ https://www.google.com/search?q=windows+11+tools+to+... ║
+║ 11 │ https://www.google.com/search?q=activate+019+without... ║
+║ 12 │ https://www.google.com/search?q=acrobat+reader&rlz=1... ║
+║ 13 │ https://www.google.com/search?q=firefox&sourceid=chr... ║
+║ 14 │ https://www.google.com/search?q=firefox&sourceid=chr... ║
+║ 15 │ https://www.google.com/search?q=acrobat+reader&rlz=1... ║
+║ 16 │ https://acrobat.adobe.com/dc-chrome-extension/mv/de/... ║
+║ 17 │ https://get.adobe.com/de/reader/download?os=Windows+... ║
+║ 18 │ https://www.google.com/aclk?sa=l&ai=DChcSEwiVmsiGian... ║
+║ 19 │ https://www.adobe.com/de/acrobat/pdf-reader.html?mv=... ║
+║ 20 │ https://pixel.everesttech.net/3085/cq?ev_sid=3&ev_ln... ║
+║ 21 │ https://www.googleadservices.com/pagead/aclk?sa=L&ai... ║
+║ 22 │ https://www.google.com/search?q=marvel+wasp&rlz=1C1O... ║
+║ 23 │ https://woshub.com/disable-windows-defender-antiviru... ║
+║ 24 │ https://www.manageengine.com/products/ad-manager/sem... ║
+║ 25 │ https://woshub.com/disable-windows-defender-antiviru... ║
+║ 26 │ https://acrobat.adobe.com/dc-chrome-extension/mv/de/... ║
+║ 27 │ https://woshub.com/disable-windows-defender-antiviru... ║
+║ 28 │ https://acrobat.adobe.com/dc-chrome-extension/mv/de/... ║
+║ 29 │ https://get.adobe.com/de/reader/?promoid=TTGWL47M       ║
+║ 30 │ https://www.google.com/search?q=marvel+wasp&rlz=1C1O... ║
+╚══════════════════════════════════════════════════════════╝
